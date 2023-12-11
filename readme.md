@@ -2,6 +2,10 @@
 
 Este é um projeto incrível que faz coisas incríveis.
 
+### Necessário Python na versão 3.7
+link:
+https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
+
 ## Configuração do Ambiente de Desenvolvimento
 
 ### 1. Instalando o Visual Studio Code
@@ -20,6 +24,5 @@ Abra o terminal no Visual Studio Code e siga estes passos para criar um ambiente
 
 
 # Certifique-se de estar no diretório do projeto e com o ambiente virtual ativado
-
 # Instalando as dependências
 pip install -r requirements.txt
